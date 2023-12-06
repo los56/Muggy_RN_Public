@@ -1,0 +1,15 @@
+/* eslint-disable */
+
+// COLORS Begin
+const MAIN_COLOR = '#F2C894';
+const SUB_COLOR = '#F2E7D8';
+const GRAY_COLOR = '#D9D9D9';
+const FONT_MAIN_COLOR = '#D9D9D9';
+const TEST_NUMBER = 1234;
+// COLORS End
+
+//
+const SCROLL_ITEM_SHOW_COUNT = 2.2;
+
+
+export default { MAIN_COLOR, SUB_COLOR, GRAY_COLOR, FONT_MAIN_COLOR, TEST_NUMBER, SCROLL_ITEM_SHOW_COUNT };
